@@ -1,3 +1,4 @@
 const config = {
-    name: 'Luis'
+    name: 'Luis',
+    age : '33'
 }
